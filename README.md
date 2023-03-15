@@ -1,2 +1,3 @@
 # Baekjoon-Algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+Baekjoon ID: his0si
+auto committed by BaekjoonHub
