@@ -35,6 +35,6 @@ public class Main {
 			} else {
 				System.out.println(n + " is NOT perfect.");
 			}
-		}
+		}scanner.close();
 	}
 }
