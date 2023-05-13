@@ -1,4 +1,15 @@
 # Algorithm
-Baekjoon ID: his0si
 
 auto committed by BaekjoonHub
+
+<details>
+<summary>Solved.ac</summary>
+<div markdown="1">    
+  
+  Baekjoon ID: his0si
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=his0si)](https://solved.ac/his0si)
+  
+</div>
+</details>
